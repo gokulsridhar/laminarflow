@@ -1,0 +1,17 @@
+{
+   "video": {
+    "voice": {
+      "languageCode": "en-US",
+      "name": "en-US-Standard-J"
+    },
+    "audioConfig": { "audioEncoding": "MP3", "speakingRate": 0.68 }
+   },
+   "podcast":{
+    "voice": {
+      "languageCode": "en-US",
+      "name": "en-US-Wavenet-G"
+    },
+    "audioConfig": { "audioEncoding": "MP3", "speakingRate": 0.72 }
+
+   }
+  }
